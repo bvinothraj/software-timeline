@@ -1,0 +1,62 @@
+[
+    {
+        "year": 1970,
+        "label": "RPC Paper by Cerf and Kahn"
+    },
+    {
+        "year": 1984,
+        "label": "Network File System"
+    },
+    {
+        "year": 1985,
+        "label": "Sun RPC release in SunOS 2.0"
+    },
+    {
+        "year": 1991,
+        "label": "CORBA 1.0 by OMG"
+    },
+    {
+        "year": 1996,
+        "label": "DCOM in NT 4.0"
+    },
+    {
+        "year": 1998,
+        "label": "XML RPC"
+    },
+    {
+        "year": 2000,
+        "label": "SOAP 1.1"
+    },
+    {
+        "year": 2001,
+        "label": "WSDL 1.1"
+    },
+    {
+        "year": 2004,
+        "label": "Roy Fielding's dissertation"
+    },
+    {
+        "year": 2008,
+        "label": "JSON-RPC 2.0"
+    },
+    {
+        "year": 2015,
+        "label": "GraphQL, JSON API 1.0"
+    },
+    {
+        "year": 2016,
+        "label": "gRPC 1.0"
+    },
+    {
+        "year": 2018,
+        "label": "BERT (2018)"
+    },
+    {
+        "year": 2022,
+        "label": "ChatGPT (2022)"
+    },
+    {
+        "year": 2024,
+        "label": "Anthropic's MCP, LangChain agents"
+    }
+]

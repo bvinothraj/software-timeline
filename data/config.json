@@ -1,0 +1,15 @@
+{
+    "title": "From Files to Models: The Evolution of Software Integration Approaches",
+    "xlim": [
+        1955,
+        2030
+    ],
+    "xticks": 10,
+    "figsize": [
+        15,
+        8
+    ],
+    "note": "Note: Timeline shows approximate periods of mainstream adoption and continuing usage",
+    "output_filename": "timeline.png",
+    "dpi": 300
+}

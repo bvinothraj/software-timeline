@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Files",
+        "start": 1960,
+        "end": 1980,
+        "color": "#E6F3FF",
+        "desc": "File-based Integration"
+    },
+    {
+        "name": "RPC",
+        "start": 1970,
+        "end": 1990,
+        "color": "#CCEBFF",
+        "desc": "Remote Procedure Calls"
+    },
+    {
+        "name": "CORBA/DCOM",
+        "start": 1980,
+        "end": 2000,
+        "color": "#99D6FF",
+        "desc": "Object-Oriented Distribution"
+    },
+    {
+        "name": "SOA",
+        "start": 2000,
+        "end": 2010,
+        "color": "#66C2FF",
+        "desc": "Service-Oriented Architecture (SOA)"
+    },
+    {
+        "name": "ESB",
+        "start": 2002,
+        "end": 2015,
+        "color": "#33ADFF",
+        "desc": "Enterprise Service Bus (ESB)"
+    },
+    {
+        "name": "REST",
+        "start": 2005,
+        "end": 2025,
+        "color": "#2299FF",
+        "desc": "Web APIs / REST"
+    },
+    {
+        "name": "Microservices",
+        "start": 2010,
+        "end": 2025,
+        "color": "#0099FF",
+        "desc": "Microservices"
+    },
+    {
+        "name": "Event-Driven Architecture",
+        "start": 2010,
+        "end": 2025,
+        "color": "#1A8CFF",
+        "desc": "Event-Driven Architecture"
+    },
+    {
+        "name": "WebSockets",
+        "start": 2011,
+        "end": 2025,
+        "color": "#007ACC",
+        "desc": "Full-duplex communication over TCP"
+    },
+    {
+        "name": "GraphQL",
+        "start": 2015,
+        "end": 2025,
+        "color": "#0066CC",
+        "desc": "GraphQL"
+    },
+    {
+        "name": "gRPC",
+        "start": 2016,
+        "end": 2025,
+        "color": "#0052CC",
+        "desc": "gRPC"
+    },
+    {
+        "name": "Contextual protocols",
+        "start": 2022,
+        "end": 2025,
+        "color": "#003D99",
+        "desc": "Contextual protocols"
+    }
+]
